@@ -3,19 +3,24 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1334)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms ComboBoxEdit - Show item tooltips
+
+This example uses the [ToolTipController]() to show/hide combobox item tooltips. The example uses the following API:
+
+* [ToolTipController.ShowHint](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.ShowHint.overloads)
+* [ToolTipController.HideHint](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.HideHint)
+* [PopupListBox.IndexFromPoint](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.BaseListBoxControl.IndexFromPoint(System.Drawing.Point))
+
+![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-a-tooltip-for-a-comboboxedit-item-e1334/13.1.4%2B/media/winforms-combobox-item-hints.png)
+
+
+## Files to Review
 
 * [Form1.cs](./CS/WindowsApplication124/Form1.cs)
-* [Program.cs](./CS/WindowsApplication124/Program.cs)
-<!-- default file list end -->
-# How to show a tooltip for a ComboBoxEdit item
 
 
-<p>You should use the ToolTipController.ShowHint method to show an item tooltip. To get the item the mouse pointer is hovering 
-<br />
-over, use the PopupListBox.IndexFromPoint method. In the ListBox.MouseMove event handler, show your tooltip.</p>
+## Documentation
 
-<br/>
-
-
+* [Hints and Tooltips](https://docs.devexpress.com/WindowsForms/2398/common-features/tooltips)
+* [How to: Display a Tooltip for a Particular Visual Element](https://docs.devexpress.com/WindowsForms/1964/common-features/tooltip-management/how-to-display-a-tooltip-for-a-particular-visual-element)
