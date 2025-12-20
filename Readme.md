@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 
-# WinForms ComboBoxEdit - Show item tooltips
+# WinForms ComboBoxEdit - Display item tooltips
 
 This example uses the [ToolTipController]() to show/hide combobox item tooltips. The example uses the following API:
 
@@ -13,7 +13,7 @@ This example uses the [ToolTipController]() to show/hide combobox item tooltips.
 * [ToolTipController.HideHint](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.HideHint)
 * [PopupListBox.IndexFromPoint](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.BaseListBoxControl.IndexFromPoint(System.Drawing.Point))
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-a-tooltip-for-a-comboboxedit-item-e1334/13.1.4%2B/media/winforms-combobox-item-hints.png)
+![WinForms ComboBoxEdit - Display item tooltips](media/winforms-combobox-item-hints.png)
 
 
 ## Files to Review
@@ -32,3 +32,4 @@ This example uses the [ToolTipController]() to show/hide combobox item tooltips.
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
