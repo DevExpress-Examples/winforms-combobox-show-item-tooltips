@@ -26,7 +26,7 @@ This example uses the [ToolTipController]() to show/hide combobox item tooltips.
 * [Hints and Tooltips](https://docs.devexpress.com/WindowsForms/2398/common-features/tooltips)
 * [How to: Display a Tooltip for a Particular Visual Element](https://docs.devexpress.com/WindowsForms/1964/common-features/tooltip-management/how-to-display-a-tooltip-for-a-particular-visual-element)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-combobox-show-item-tooltips&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-combobox-show-item-tooltips&~~~was_helpful=no)
 
